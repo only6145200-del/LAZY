@@ -1,0 +1,7 @@
+{
+  "name": "懶旅伴 (LazyTripper)",
+  "description": "你出發，安置我。智慧型 AI 旅遊行程規劃助手，根據你的旅遊 DNA 自動產出最佳路線與動態調整策略。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
